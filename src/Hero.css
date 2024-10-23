@@ -1,0 +1,14 @@
+.bgcntnr{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    height: 500px; width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Files/img1.jpg)
+}
+.hd1{
+    margin: auto;
+    color: white;
+}
